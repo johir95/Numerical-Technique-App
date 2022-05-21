@@ -10,5 +10,4 @@ NB: This app is only for those who are familiar with numerical techniques. Other
 
 
 
-
-https://johir95.github.io/Numerical-Technique-App/
+Some screenshots of the project:https://drive.google.com/drive/folders/1XhpOJYS1sxu0nSJN6UbkaQ2XMQ4RtSWh?usp=sharing
